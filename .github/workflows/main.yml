@@ -34,6 +34,7 @@ jobs:
            haxelib install haxeui-core
            haxelib install haxeui-hxwidgets
            haxelib install hxcpp
+           haxelib install openfl
            haxelib install hxcpp-debug-server
            haxelib install flixel
            haxelib run lime setup flixel

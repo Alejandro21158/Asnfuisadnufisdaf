@@ -86,7 +86,9 @@ class Main
 				mainView.findComponent("restart-button", Button).onClick = function(_)
 				{
 					#if windows
-					new Process("Indie Cross.exe", []);
+					new Process("Psych engine.exe", []);
+					#if windows
+					new Process("Kade Engine.exe", []);
 					#elseif linux
 					new Process("./Indie Cross", []);
 					#end

@@ -24,10 +24,10 @@ class Main
 		"Property of Rhys Moon",
 		"if (!working) crash();",
 		"It's a feature, not a bug",
-		"The J",
-		"Indie Crash",
+		"Gei si lees",
+		"Epic crash",
 		"u crashed hahaha!!!1111",
-		"e"
+		"eeee ee ee e eeeee ee"
 	];
 
 	public static function main()
